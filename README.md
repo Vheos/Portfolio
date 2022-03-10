@@ -1,3 +1,51 @@
+# University projects
+<div align="left">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Graduation project</th>
+        <th align="center">Game engine</th>
+        <th align="center">AI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          • thesis title: <i>“Creating a local co-op game in Unreal Engine 4”</i><br/>
+        </td>
+        <td align="center">
+          • written from scratch in <i>C#</i> and <i>OpenGL</i><br/>
+          • supports 3D graphics, sprite animations, convex collisions and player input
+        </td>
+        <td align="center">
+          • written in <i>JavaScript</i> using <i>Enchant.js</i><br/>
+          • features <i>Monte-Carlo Tree Search</i> for finding optimal moves
+        </td>
+      </tr>      
+      <tr>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">
+            <img src="https://lh3.googleusercontent.com/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">
+            <img src="https://lh3.googleusercontent.com/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">
+            <img src="https://lh3.googleusercontent.com/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t" width="512">
+          </a>
+        </td>
+      </tr>      
+    </tbody>
+  </table>
+</div>
+<br/>
+
+
+
 # Gamejams
 <div align="left">
   <table>
@@ -11,18 +59,33 @@
     <tbody>
       <tr>
         <td align="center">
+          • point-and-click<br/>
+          • made in <i>GameMaker</i>
+        </td>
+        <td align="center">
+          • side-scrolling shooter<br/>
+          • made in <i>Unreal Engine 4</i>
+        </td>
+        <td align="center">
+          • 3-lane rock-paper-scissors hybrid<br/>
+          • made in <i>Unreal Engine 4</i><br/>
+          • features dynamic, layered music implemented with <i>FMOD</i>
+        </td>
+      </tr>   
+      <tr>
+        <td align="center">
           <a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">
-            <img src="https://lh6.googleusercontent.com/loILXDT0ALvBCKgiNPVq79KCkb-bDDdUxDQiCIF0xOGvzMmJvzlgoFQiy4mIRwA6gVO19PZVWIdmz8aks3nu=w640-h360-k-pd" width="512">
+            <img src="https://lh3.googleusercontent.com/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt" width="512">
           </a>
         </td>
         <td align="center">
           <a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">
-            <img src="https://lh4.googleusercontent.com/soMX7M-YEtSYfTrL32dju6NLnwJIa9vUJTHsasWSekvzk3TEMWaAv0Vj7Ll878oe1QV4PzvBLzQErwYZjwL0=w640-h360-k-pd" width="512">
+            <img src="https://lh3.googleusercontent.com/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq" width="512">
           </a>
         </td>
         <td align="center">
           <a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">
-            <img src="https://lh3.googleusercontent.com/fG1qgQUJs4qHFMwrcnBH3o8dXQLzcC-yF1zjiHoiafkxCFN3cChI1TCvkHNC-iA4QJTUM3ZgTzQI4m7zwVAw=w640-h360-k-pd" width="512">
+            <img src="https://lh3.googleusercontent.com/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T" width="512">
           </a>
         </td>
       </tr>      
@@ -33,42 +96,7 @@
 
 
 
-# University projects
-<div align="left">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Graduation project</th>
-        <th align="center">Game engine</th>
-        <th align="center">Browser game</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">
-            <img src="https://lh6.googleusercontent.com/_dKuwI1aEIyW_pGR-rXtOeNuhtfwsvH8qU3nBtr6F3_hGo05asWhIUzGrC47ZfFwXEOiTwVR62hy1nxULCKY=w640-h360-k-pd" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">
-            <img src="https://lh4.googleusercontent.com/cBMV-v6ZeDuBTA57FjQ0Z1vW0-dVMNAC0MJeTJbKshMJUB4FjtF6wqu4jh9C3fNccHYQyrqNzZnjWv6ATjg6=w640-h360-k-pd" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">
-            <img src="https://lh4.googleusercontent.com/ZpznxwC5nshrz9ePR3EGQmuQFkW9EuW0dGieiP4Mg1hfDE9mbJiNQ9u13uVL-drheDvkYAco_3l3GPvgsBn0=w640-h360-k-pd" width="512">
-          </a>
-        </td>
-      </tr>      
-    </tbody>
-  </table>
-</div>
-<br/>
-
-
-
-# Unity sandbox
+# Unity prototypes
 
 <details><summary>Grass shader</summary>
   
@@ -108,7 +136,7 @@ https://user-images.githubusercontent.com/9155825/157522737-f07efc05-9c74-4ba9-b
 </details>
 
 
-<details><summary>Turn-based combat prototype</summary>  
+<details><summary>Combat system</summary>  
 
 https://user-images.githubusercontent.com/9155825/157524288-d7975208-ba18-473c-b39f-fd58dcf00ff2.mp4
 
