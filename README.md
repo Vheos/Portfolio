@@ -3,9 +3,9 @@
   <table>
     <thead>
       <tr>
-        <th align="center">Graduation project</th>
-        <th align="center">Game engine</th>
-        <th align="center">AI</th>
+        <th align="center"><a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">Graduation project</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">Game engine</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">AI</a></th>
       </tr>
     </thead>
     <tbody>
@@ -51,9 +51,9 @@
   <table>
     <thead>
       <tr>
-        <th align="center">LAG2014</th>
-        <th align="center">LAG2015</th>
-        <th align="center">LAG2016</th>
+        <th align="center"><a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">LAG2014</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">LAG2015</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">LAG2016</a></th>
       </tr>
     </thead>
     <tbody>
@@ -67,7 +67,7 @@
           • made in <i>Unreal Engine 4</i>
         </td>
         <td align="center">
-          • 3-lane rock-paper-scissors hybrid<br/>
+          • 3-lane rock-paper-scissors PvP<br/>
           • made in <i>Unreal Engine 4</i><br/>
           • features dynamic, layered music implemented with <i>FMOD</i>
         </td>
