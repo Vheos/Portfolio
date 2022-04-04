@@ -51,31 +51,31 @@
   <table>
     <thead>
       <tr>
-        <th align="center"><a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">LAG2014</a></th>
-        <th align="center"><a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">LAG2015</a></th>
         <th align="center"><a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">LAG2016</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">LAG2015</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">LAG2014</a></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
-          • point-and-click<br/>
-          • made in <i>GameMaker</i>
+          • 3-lane rock-paper-scissors PvP<br/>
+          • made in <i>Unreal Engine 4</i><br/>
+          • features dynamic, layered music implemented with <i>FMOD</i>
         </td>
         <td align="center">
           • side-scrolling shooter<br/>
           • made in <i>Unreal Engine 4</i>
         </td>
         <td align="center">
-          • 3-lane rock-paper-scissors PvP<br/>
-          • made in <i>Unreal Engine 4</i><br/>
-          • features dynamic, layered music implemented with <i>FMOD</i>
+          • point-and-click<br/>
+          • made in <i>GameMaker</i>
         </td>
       </tr>   
       <tr>
         <td align="center">
-          <a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">
-            <img src="https://lh3.googleusercontent.com/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt" width="512">
+          <a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">
+            <img src="https://lh3.googleusercontent.com/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T" width="512">
           </a>
         </td>
         <td align="center">
@@ -84,8 +84,8 @@
           </a>
         </td>
         <td align="center">
-          <a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">
-            <img src="https://lh3.googleusercontent.com/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T" width="512">
+          <a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">
+            <img src="https://lh3.googleusercontent.com/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt" width="512">
           </a>
         </td>
       </tr>      
