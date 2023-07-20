@@ -1,10 +1,10 @@
 # Table of contents
-- [Automation](https://github.com/Vheos/Portfolio/edit/master/README.md#automation)
-- [Game design](https://github.com/Vheos/Portfolio/edit/master/README.md#game-design)
-- [Modding](https://github.com/Vheos/Portfolio/edit/master/README.md#modding)
-- [Unity prototypes](https://github.com/Vheos/Portfolio/edit/master/README.md#unity-prototypes)
-- [Gamejams](https://github.com/Vheos/Portfolio/edit/master/README.md#gamejams)
-- [University projects](https://github.com/Vheos/Portfolio/edit/master/README.md#university-projects)
+- [Automation](https://github.com/Vheos/Portfolio/tree/master/README.md#automation)
+- [Game design](https://github.com/Vheos/Portfolio/tree/master/README.md#game-design)
+- [Modding](https://github.com/Vheos/Portfolio/tree/master/README.md#modding)
+- [Unity prototypes](https://github.com/Vheos/Portfolio/tree/master/README.md#unity-prototypes)
+- [Gamejams](https://github.com/Vheos/Portfolio/tree/master/README.md#gamejams)
+- [University projects](https://github.com/Vheos/Portfolio/tree/master/README.md#university-projects)
 
 </br>
 
