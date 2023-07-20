@@ -8,6 +8,17 @@
 
 </br>
 
+# Game Design
+
+[**Codename: Dicebuilder (WIP)**](https://www.figma.com/file/HqrI1lT0AxoTWODgipWzXh/Dicebuilder-v3?type=design&node-id=39-46816&mode=design)
+- desgined and playtested as a board game, each new major version is physically printed out
+- not meant to be published as a board game, but coded (preferably in Unity) and distributed digitially
+- features: 3-player co-op, dicebuilding, deckbuilding, party management, survival, zero text (language independence)
+- inspired by: Res Arcana, Darkest Dungeon, Gloomhaven
+- _if you're analyzing the figma board, make sure to check out all pages!_
+
+</br>
+
 # Unity prototypes
 
 <details><summary>Project "BlackWhite"</summary>
