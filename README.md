@@ -38,7 +38,8 @@
 - some of its features actually made it into the official game!
 
 [**VMP**](https://www.nexusmods.com/outward/mods/203?tab=posts)
-- features new mechanics, system overhauls and tons of configs
+- huge mod (with over 200 user settings) for the Unity game [Outward](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/)
+- features UI editor, new mechanics, system overhauls and tons of configs
 - lets the players customize their adventures however they'd like
 
 </br>
