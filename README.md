@@ -1,100 +1,12 @@
-# University projects
-<div align="left">
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">Graduation project</a></th>
-        <th align="center"><a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">Game engine</a></th>
-        <th align="center"><a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">AI</a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          • thesis title: <i>“Creating a local co-op game in Unreal Engine 4”</i><br/>
-        </td>
-        <td align="center">
-          • written from scratch in <i>C#</i> and <i>OpenGL</i><br/>
-          • supports 3D graphics, sprite animations, convex collisions and player input
-        </td>
-        <td align="center">
-          • written in <i>JavaScript</i> using <i>Enchant.js</i><br/>
-          • features <i>Monte-Carlo Tree Search</i> for finding optimal moves
-        </td>
-      </tr>      
-      <tr>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">
-            <img src="https://lh3.googleusercontent.com/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">
-            <img src="https://lh3.googleusercontent.com/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">
-            <img src="https://lh3.googleusercontent.com/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t" width="512">
-          </a>
-        </td>
-      </tr>      
-    </tbody>
-  </table>
-</div>
-<br/>
+# Automation
 
+[**Co-op games database**](https://docs.google.com/spreadsheets/d/1ca1RrQJ_UMNOvColaOyzUN1R6e0BFmu2AcLVDrNb7Hw/edit#gid=2114306330&fvid=1064575396) - fueled by my passion and constant pursuit of co-op games
+- powered by Steam [appdetails](https://store.steampowered.com/api/appdetails?appids=753640&cc=pl&l=pl), [appreviews](https://store.steampowered.com/appreviews/753640?json=1&purchase_type=all&num_per_page=0) and [HLTB](https://howlongtobeat.com/game/57527) scraping
 
+[**Otodom.pl scraper**](https://docs.google.com/spreadsheets/d/1IXpku6W2ggkiyMPukTKKjVR5DbERJ5UHmP1wQQiLDGk/edit#gid=0&fvid=478065337) - handy sheet when you're searching for an apartment to rent in Poland
+- everything is scraped off Otodom's search results
 
-# Gamejams
-<div align="left">
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">LAG2016</a></th>
-        <th align="center"><a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">LAG2015</a></th>
-        <th align="center"><a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">LAG2014</a></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          • 3-lane rock-paper-scissors PvP<br/>
-          • made in <i>Unreal Engine 4</i><br/>
-          • features dynamic, layered music implemented with <i>FMOD</i>
-        </td>
-        <td align="center">
-          • side-scrolling shooter<br/>
-          • made in <i>Unreal Engine 4</i>
-        </td>
-        <td align="center">
-          • point-and-click<br/>
-          • made in <i>GameMaker</i>
-        </td>
-      </tr>   
-      <tr>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">
-            <img src="https://lh3.googleusercontent.com/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">
-            <img src="https://lh3.googleusercontent.com/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq" width="512">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">
-            <img src="https://lh3.googleusercontent.com/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt" width="512">
-          </a>
-        </td>
-      </tr>      
-    </tbody>
-  </table>
-</div>
-<br/>
-
-
+</br>
 
 # Unity prototypes
 
@@ -163,3 +75,97 @@ https://user-images.githubusercontent.com/9155825/157521768-6ba6a576-3d4e-4961-b
 
 https://user-images.githubusercontent.com/9155825/157521999-f5fc4884-9c00-4c89-b6ba-3649dc9176a5.mp4
 </details>
+</br>
+
+# Gamejams
+<div align="left">
+  <table>
+    <thead>
+      <tr>
+        <th align="center"><a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">LAG2016</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">LAG2015</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">LAG2014</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          • 3-lane rock-paper-scissors PvP<br/>
+          • made in <i>Unreal Engine 4</i><br/>
+          • features dynamic, layered music implemented with <i>FMOD</i>
+        </td>
+        <td align="center">
+          • side-scrolling shooter<br/>
+          • made in <i>Unreal Engine 4</i>
+        </td>
+        <td align="center">
+          • point-and-click<br/>
+          • made in <i>GameMaker</i>
+        </td>
+      </tr>   
+      <tr>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T">
+            <img src="https://lh3.googleusercontent.com/d/1UL_L2pVADPE-8gWqV2V438vn8IJdiF7T" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq">
+            <img src="https://lh3.googleusercontent.com/d/1z8Psk855zGZScVDYsO_suKnxezBYRkFq" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt">
+            <img src="https://lh3.googleusercontent.com/d/1ItNE2wB00IE3N7VK1eAn4il3MKSZRkkt" width="512">
+          </a>
+        </td>
+      </tr>      
+    </tbody>
+  </table>
+</div>
+<br/>
+
+# University projects
+<div align="left">
+  <table>
+    <thead>
+      <tr>
+        <th align="center"><a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">Graduation project</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">Game engine</a></th>
+        <th align="center"><a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">AI</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          • thesis title: <i>“Creating a local co-op game in Unreal Engine 4”</i><br/>
+        </td>
+        <td align="center">
+          • written from scratch in <i>C#</i> and <i>OpenGL</i><br/>
+          • supports 3D graphics, sprite animations, convex collisions and player input
+        </td>
+        <td align="center">
+          • written in <i>JavaScript</i> using <i>Enchant.js</i><br/>
+          • features <i>Monte-Carlo Tree Search</i> for finding optimal moves
+        </td>
+      </tr>      
+      <tr>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe">
+            <img src="https://lh3.googleusercontent.com/d/1_dbaRW28PSrd18lSSjE0ZrKVGscb5iIe" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7">
+            <img src="https://lh3.googleusercontent.com/d/1CtLbVri9an-wn7QnD5D4K_k0BUcTtIs7" width="512">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://drive.google.com/file/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t">
+            <img src="https://lh3.googleusercontent.com/d/1eKclgFEtGaW5XPXki3UBCGedmUl_P_4t" width="512">
+          </a>
+        </td>
+      </tr>      
+    </tbody>
+  </table>
+</div>
