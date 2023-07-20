@@ -1,3 +1,13 @@
+# Table of contents
+- [Automation](https://github.com/Vheos/Portfolio/edit/master/README.md#automation)
+- [Game design](https://github.com/Vheos/Portfolio/edit/master/README.md#game-design)
+- [Modding](https://github.com/Vheos/Portfolio/edit/master/README.md#modding)
+- [Unity prototypes](https://github.com/Vheos/Portfolio/edit/master/README.md#unity-prototypes)
+- [Gamejams](https://github.com/Vheos/Portfolio/edit/master/README.md#gamejams)
+- [University projects](https://github.com/Vheos/Portfolio/edit/master/README.md#university-projects)
+
+</br>
+
 # Automation
 
 [**Co-op games database**](https://docs.google.com/spreadsheets/d/1ca1RrQJ_UMNOvColaOyzUN1R6e0BFmu2AcLVDrNb7Hw/edit#gid=2114306330&fvid=1064575396) - fueled by my passion and constant pursuit of co-op games
@@ -8,7 +18,7 @@
 
 </br>
 
-# Game Design
+# Game design
 
 [**Codename: Dicebuilder (WIP)**](https://www.figma.com/file/HqrI1lT0AxoTWODgipWzXh/Dicebuilder-v3?type=design&node-id=39-46816&mode=design)
 - desgined and playtested as a board game, each new major version is physically printed out
@@ -18,6 +28,21 @@
 - _if you're analyzing the figma board, make sure to check out all pages!_
 
 </br>
+
+# Modding
+
+[**UNSIGTHED++**](https://github.com/Vheos/Mods.UNSIGHTED#readme)
+- first-ever mod for the Unity game [UNSIGHTED](https://store.steampowered.com/app/1062110/UNSIGHTED/)
+- featuers co-op improvements, difficulty tweaks, QoL features and audiovisual stuff
+- all highly configurable to each player's liking
+- some of its features actually made it into the official game!
+
+[**VMP**](https://www.nexusmods.com/outward/mods/203?tab=posts)
+- features new mechanics, system overhauls and tons of configs
+- lets the players customize their adventures however they'd like
+
+</br>
+
 
 # Unity prototypes
 
