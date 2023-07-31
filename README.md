@@ -31,7 +31,7 @@
 
 # Modding
 
-[**UNSIGTHED++**](https://github.com/Vheos/Mods.UNSIGHTED#readme)
+[**UNSIGHTED++**](https://github.com/Vheos/Mods.UNSIGHTED#readme)
 - first-ever mod for the Unity game [UNSIGHTED](https://store.steampowered.com/app/1062110/UNSIGHTED/)
 - featuers co-op improvements, difficulty tweaks, QoL features and audiovisual stuff
 - all highly configurable to each player's liking
