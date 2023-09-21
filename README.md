@@ -191,12 +191,11 @@ https://user-images.githubusercontent.com/9155825/157521999-f5fc4884-9c00-4c89-b
 
 # Game design
 
-[**Codename: Dicebuilder (WIP)**](https://www.figma.com/file/HqrI1lT0AxoTWODgipWzXh/Dicebuilder-v3?type=design&node-id=39-46816&mode=design)
+**Codename: Dicebuilder (WIP)** [[Figma Board](https://www.figma.com/file/HqrI1lT0AxoTWODgipWzXh/Dicebuilder-v3?type=design&node-id=39-46816&mode=design)] [[Google Sheets](https://docs.google.com/spreadsheets/d/11m-WbrU3Eyf9JiJGPtnbtuWSXEpVE2GJkGwnH33UGkY/edit#gid=491590389)]
 - desgined and playtested as a board game, each new major version is physically printed out
 - not meant to be published as a board game, but coded (preferably in Unity) and distributed digitially
 - features: 3-player co-op, dicebuilding, deckbuilding, party management, survival, zero text (language independence)
 - inspired by: Res Arcana, Darkest Dungeon, Gloomhaven
-- _if you're analyzing the figma board, make sure to check out all pages!_
 
 </br>
 
