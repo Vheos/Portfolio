@@ -1,4 +1,5 @@
 # Table of contents
+- [Code/Git Samples](https://github.com/Vheos/Portfolio/tree/master#codegit-samples)
 - [Gamejams](https://github.com/Vheos/Portfolio/tree/master#gamejams)
 - [University projects](https://github.com/Vheos/Portfolio/tree/master#university-projects)
 - [Unity prototypes](https://github.com/Vheos/Portfolio/tree/master#unity-prototypes)
@@ -6,9 +7,23 @@
 - [Game design](https://github.com/Vheos/Portfolio/tree/master#game-design)
 - [Automation](https://github.com/Vheos/Portfolio/tree/master#automation)
 
-
 </br>
 
+# Code/Git Samples
+_All projects have been created from scratch, without the use of either ChatGPT or StackOverflow_
+
+[**First-Person Shooter**](https://github.com/Vheos/Interview.BeastGames)
+- various bullet types and hit/trail particles
+- composition over inheritance
+- logic configurable from inspector (with UnityEvents)
+
+[**Mobile stress test**](https://github.com/Vheos/Interview.Naptime)
+- UI optimization (splitting into subcanvases, no animator)
+- object pooling to minimize garbage collection
+- configurable from inspector (with ScriptableObjects)
+
+</br>
+  
 # Gamejams
 <div align="left">
   <table>
