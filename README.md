@@ -1,11 +1,11 @@
 # Table of contents
-- [Code/Git Samples](https://github.com/Vheos/Portfolio/tree/master#codegit-samples)
-- [Gamejams](https://github.com/Vheos/Portfolio/tree/master#gamejams)
-- [University projects](https://github.com/Vheos/Portfolio/tree/master#university-projects)
-- [Unity prototypes](https://github.com/Vheos/Portfolio/tree/master#unity-prototypes)
-- [Modding](https://github.com/Vheos/Portfolio/tree/master#modding)
-- [Game design](https://github.com/Vheos/Portfolio/tree/master#game-design)
-- [Automation](https://github.com/Vheos/Portfolio/tree/master#automation)
+- [Code/Git Samples](https://github.com/Vheos/Portfolio#codegit-samples)
+- [Gamejams](https://github.com/Vheos/Portfolio#gamejams)
+- [University projects](https://github.com/Vheos/Portfolio#university-projects)
+- [Unity prototypes](https://github.com/Vheos/Portfolio#unity-prototypes)
+- [Modding](https://github.com/Vheos/Portfolio#modding)
+- [Game design](https://github.com/Vheos/Portfolio#game-design)
+- [Automation](https://github.com/Vheos/Portfolio#automation)
 
 </br>
 
